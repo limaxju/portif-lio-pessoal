@@ -21,7 +21,7 @@ Ao fazer o projeto aprendemos a utilizar o Bootstrap e também a desenvolver mel
  Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.  
   O arquivo README é muito importante para nossa aprendizagem e nosso desenvolvimento dentro e fora do colégio.
 ## Funcionalidade
-
+Os campos de cadastro constam com informações de endereço somente.
 ## Tecnologias Utilizadas
 HTML,CSS,VSCODE, BOOTSTRAP,GITHUB,GIT.
 ## Fontes Consulta
