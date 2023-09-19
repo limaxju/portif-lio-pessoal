@@ -24,7 +24,7 @@ Ao fazer o projeto aprendemos a utilizar o Bootstrap e também a desenvolver mel
 Os campos de cadastro constam com informações de endereço somente.
 ## Tecnologias Utilizadas
 * ``HTML5``
-* ``CSS``
+* ``CSS3``
 * ``VSCODE``
 * ``BOOTSTRAP``
 * ``GITHUB``
