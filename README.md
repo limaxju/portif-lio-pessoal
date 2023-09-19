@@ -8,7 +8,7 @@
 [Fontes Consulta](#fontes-consulta)  
 [Autores](#autores)  
 
- # Portfolio_pessoal
+ # Portfólio pessoal
  
 ![Capa do projeto](img/capa.png)
 
@@ -35,3 +35,4 @@ Os campos de cadastro constam com informações de endereço somente.
  * [Gits Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README 
 
 ## Autores
+Julia Eduarda de Lima Barbosa
